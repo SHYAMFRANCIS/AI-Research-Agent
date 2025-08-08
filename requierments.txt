@@ -1,0 +1,15 @@
+langchain 
+wikipedia 
+langchain-community 
+langchain-openai
+langchain-anthropic
+python-dotenv
+pydantic
+duckduckgo-search
+
+# Error handling and monitoring dependencies
+langchain-google-genai
+requests
+google-api-core
+colorama  # For colored console output
+typing-extensions  # For enhanced type hints
